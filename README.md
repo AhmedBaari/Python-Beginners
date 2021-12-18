@@ -2,19 +2,19 @@
 
 [![Built On Visual Studio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://visualstudio.microsoft.com/) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) 
 
-
-
-
-
 This guide is a collection of every topic you need to know about in the basics of Python.
 When you are able to understand each of those topics and code on your own, it means you have successfully mastered the basics of Python :)
 
-[**CLICK HERE**](https://github.com/AhmedBaari/Python-Beginners/find/master) to get started with the topics.
+[**LEARN MORE**](https://github.com/AhmedBaari/Python-Beginners/tree/master#about-the-author) about the Author.
 
 # Contents
 [![Discord](https://discordapp.com/api/guilds/823750828799819817/embed.png)](https://discord.gg/m9MW8Cw3xq)
 [![Version](https://img.shields.io/npm/v/discord-rpbot.svg)](https://github.com/AhmedBaari/Python-Beginners/)
 [![License](https://img.shields.io/npm/l/discord-rpbot.svg)](LICENSE)
+
+`Topics 1-24 will be appearing in CBSE Class 12 Term 1 Examinations for the year 2021-2022.`
+Each topic has a simple description, use cases and examples showing how to use them.
+I have also attached a few real life examples in between to better understand how these are used in real life projects.
 
 1) [Print Statement](https://github.com/AhmedBaari/Python-Beginners/blob/a52be6341eb1c93bfe5837fd2938ef10d509b976/1%20Print.py)
 2) [Working With Strings](https://github.com/AhmedBaari/Python-Beginners/blob/a52be6341eb1c93bfe5837fd2938ef10d509b976/2%20Working%20With%20Strings.py)
