@@ -18,7 +18,7 @@ When you are able to understand each of those topics and code on your own, it me
 
 1) [Print Statement](https://github.com/AhmedBaari/Python-Beginners/blob/a52be6341eb1c93bfe5837fd2938ef10d509b976/1%20Print.py)
 2) [Working With Strings](https://github.com/AhmedBaari/Python-Beginners/blob/a52be6341eb1c93bfe5837fd2938ef10d509b976/2%20Working%20With%20Strings.py)
-3) [String Functions](https://github.com/AhmedBaari/Python-Beginners/blob/a52be6341eb1c93bfe5837fd2938ef10d509b976/3%20String Functions.py)
+3) [String Functions](https://github.com/AhmedBaari/Python-Beginners/blob/a52be6341eb1c93bfe5837fd2938ef10d509b976/3%20String%20Functions.py)
 4) [Working With Numbers](https://github.com/AhmedBaari/Python-Beginners/blob/a52be6341eb1c93bfe5837fd2938ef10d509b976/4%20Working%20With%20Numbers.py)
 5) [Input Statements](https://github.com/AhmedBaari/Python-Beginners/blob/a52be6341eb1c93bfe5837fd2938ef10d509b976/5%20Input%20Statements.py)
 6) **Real Life Example:** [Simple Calculator](https://github.com/AhmedBaari/Python-Beginners/blob/a52be6341eb1c93bfe5837fd2938ef10d509b976/6%20Simple%20Calculator.py)
