@@ -62,9 +62,7 @@ I have also attached a few real life examples in between to better understand ho
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/INEXD)
 
 Ahmed Baari is an Indian Student of Class 12 currently learning Python, Javascript and Discord Development.
-- **Instagram:** [@berrybaarz](https://instagram.com/berrybaarz)
+- **Instagram:** [@baari.me](https://instagram.com/baari.me)
 - **YouTube:** [INEX](https://youtube.com/INEXD)
 - **Discord:** [Berry's World](https://discord.gg/DVwuuaDFaK)
-- **Twitter:** [BerryBaarz](https://twitter.com/BerryBaarz)
-- **Reddit:** [Dizzy_Huckleberry887](https://www.reddit.com/u/Dizzy_Huckleberry887)
 
