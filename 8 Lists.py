@@ -10,7 +10,7 @@ friends = ["Manish", "Siva", "Nagarjun", "Shravan", "Shakthi", "Siva", "Pritham"
 print(friends) #Prints the entire list
 
 #I want to know who my 4th best friend is so I'll take "3" as index (cuz zero is counted)
-print(friends[3]) #Siva
+print(friends[3]) #Shravan
 
 #I just got another best friend, I want to replace my 2nd best friend with her. We use list[index] for this
 friends[1]= "Tayeba" #Assigns "Tayeba" to index[2] in the list
